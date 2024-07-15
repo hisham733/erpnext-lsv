@@ -17,7 +17,7 @@
 
 <br>
 
-# ERPNext Home Page
+# ERPNext Home Pages
 ![ERPNext Home Page](images/homepage1.png)
 ![](images/homepage2.png)
 
